@@ -1,2 +1,2 @@
 # libflip
-VVVVVV music file parser
+C++ library for parsing VVVVVV music files, with C bindings.
